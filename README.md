@@ -1,3 +1,5 @@
+# Deprecated - current official [HipChat Plugin](https://wiki.jenkins-ci.org/display/JENKINS/HipChat+Plugin) supports HipChat Api V2 also for specific jobs. 
+
 # HipChatNotifier Plugin
 
 Uses HipChat API v2.
